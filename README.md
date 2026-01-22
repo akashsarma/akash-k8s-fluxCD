@@ -1,1 +1,0 @@
-# akash-k8s-fluxCD
