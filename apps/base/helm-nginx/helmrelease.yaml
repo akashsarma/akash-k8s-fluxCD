@@ -4,7 +4,7 @@ metadata:
   name: helm-nginx
   namespace: nginx
 spec:
-  interval: 5m
+  interval: 1m
   chart:
     spec:
       chart: nginx
