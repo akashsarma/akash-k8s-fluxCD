@@ -18,7 +18,7 @@ metadata:
   namespace: flux-system
 spec:
   interval: 1m
-  path: ./apps/helm-nginx
+  path: ./apps/base/helm-nginx
   prune: true
   sourceRef:
     kind: GitRepository
